@@ -1,0 +1,50 @@
+{
+  "character_id": 646,
+  "portrait_index": 505,
+  "stats": [
+    97,
+    86,
+    76,
+    95,
+    71
+  ],
+  "class": 15,
+  "class_name": "短弓骑",
+  "equipment": [
+    "桦木弓",
+    "硬皮甲"
+  ],
+  "first_battle_position": [
+    4,
+    3
+  ],
+  "startup": "新游戏，首次整备前入队",
+  "runtime_test": "未进行游戏内验证，由用户测试",
+  "checks": [
+    "EEX全部段落和事件长度有效",
+    "505张原头像逐字节保留",
+    "人物编号未被原剧本引用"
+  ],
+  "files": {
+    "Data.e5": {
+      "original_sha256": "be40725f95df3a09bf90a28fef8564ffbcef1871ff80dca51efa76bde94fcff7",
+      "patched_sha256": "348a6f0385b826a85fc46a73e8d80f19897e7236f4d4e2625a4b298ab7a893bf"
+    },
+    "Ekd5扩展功勋版.exe": {
+      "original_sha256": "d3b2af786cec4128ddb0fa33816f4f346d11e4b74774add72021065bdfa1b419",
+      "patched_sha256": "40fd8be0425652d95a657b3210cadf618c0071f0a13ab4d9fbff98874c5b0f76"
+    },
+    "E5/Face.e5": {
+      "original_sha256": "5c717a0bc28d1f8d913529307a2d05995db0f36181279217901b78079b3b5ec7",
+      "patched_sha256": "8f1c3354412cd41209c98f83b970b7770493f5a0376efb09090fd85c4ceb92f2"
+    },
+    "RS/R_00.eex": {
+      "original_sha256": "e5eb77210d7da2986c2c0a6762d4a7383902e165f54fb8c64c64d8e0fb0ac457",
+      "patched_sha256": "e690cd503b4f2fa44465e26f8229065f474428118dfd8c4bb6b87fdb974aeaf0"
+    },
+    "RS/S_00.eex": {
+      "original_sha256": "baab0ba71adf7412099f6c948cd351a60af4b05797f61aab40c106f38b30d9bc",
+      "patched_sha256": "d898fb816458f3dce9e530db1f209fc4830412132991a6c8556289ca827bd029"
+    }
+  }
+}
